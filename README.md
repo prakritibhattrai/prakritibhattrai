@@ -4,7 +4,7 @@
 ---
 
 ## 📄 About Me
-I'm a Full Stack Developer with over four years of experience in building high-performance web applications, specializing in React, Next.js, TypeScript, and Node.js. With a background in integrating AI technologies into software, I focus on developing scalable solutions that enhance user experience and operational efficiency.
+I'm a Full Stack Developer with over four years of experience in building high-performance web applications, specializing in **React**, **Next.js**, **TypeScript**, and **Node.js**. With a background in integrating **AI technologies** into software, I focus on developing scalable solutions that enhance user experience and operational efficiency.
 
 I’ve contributed to projects for startups and Fortune 500 companies alike, from food delivery applications to e-commerce platforms and SaaS products. Passionate about crafting clean, efficient code, I actively collaborate with technical and non-technical stakeholders to deliver exceptional results.
 
@@ -35,17 +35,16 @@ I’ve contributed to projects for startups and Fortune 500 companies alike, fro
 ---
 
 ## 🛠️ What I’m Currently Working On
-I’m currently working on a creating a e-platform for liquor store based in Texas, using Node.js and NextJS, focusing on creating modular architectures, authentication layers, and secure REST APIs for seamless data integration.
+I’m currently creating an e-platform for a liquor store based in Texas, using **Node.js** and **Next.js**, with a focus on modular architectures, authentication layers, and secure **REST APIs** for seamless data integration.
 
 ---
 
 ## 🌐 Get In Touch
 - **LinkedIn**: [linkedin.com/in/prakriti-bhattarai-85456a215](https://linkedin.com/in/prakriti-bhattarai-85456a215)
-- **Portfolio**: [My Portfolio]([[https://your-portfolio-url.com](https://prakritibhattrai.github.io/Portfolio-Using-React-and-Chakra-UI)](https://prakritibhattrai.github.io/Portfolio-Using-React-and-Chakra-UI))
+- **Portfolio**: [My Portfolio](https://prakritibhattrai.github.io/Portfolio-Using-React-and-Chakra-UI)
 - **Email**: prakriti.bhattarai5@gmail.com
 
 ---
 
 ## 📈 GitHub Stats
-![Prakriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
+![Prakriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakritibhattrai&show_icons=true&theme=radical)
