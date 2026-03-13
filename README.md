@@ -68,12 +68,6 @@ I enjoy solving complex engineering problems and building products that scale to
 
 ---
 
-## 📈 GitHub Stats
-
-![Prakriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakritibhattrai&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Connect With Me
 
 📧 **Email**  
