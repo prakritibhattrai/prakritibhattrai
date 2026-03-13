@@ -1,50 +1,90 @@
-# 👋 Hi, I'm Prakriti!
+# 👋 Hi, I'm Prakriti
+
 ### Full Stack Developer | AI Integrations Specialist | Scalable Solutions Architect
 
 ---
 
 ## 📄 About Me
-I'm a Full Stack Developer with over four years of experience in building high-performance web applications, specializing in **React**, **Next.js**, **TypeScript**, and **Node.js**. With a background in integrating **AI technologies** into software, I focus on developing scalable solutions that enhance user experience and operational efficiency.
 
-I’ve contributed to projects for startups and Fortune 500 companies alike, from food delivery applications to e-commerce platforms and SaaS products. Passionate about crafting clean, efficient code, I actively collaborate with technical and non-technical stakeholders to deliver exceptional results.
+Software Engineer with **5+ years of experience** designing and building secure, scalable web and AI-powered applications.
 
----
+I specialize in building **high-performance full-stack systems**, integrating **AI services**, and deploying reliable cloud infrastructure. My core expertise includes **React (TypeScript)**, **Node.js**, and modern **cloud platforms like GCP and AWS**.
 
-## 🚀 Technical Skills
-- **Frontend**: React.js, Next.js, TypeScript, JavaScript (ES6+)
-- **Backend**: Node.js, Express.js, NestJS
-- **Databases**: MongoDB, PostgreSQL
-- **DevOps**: Docker, AWS, CI/CD
-- **AI Integration**: ChatGPT, AI-driven recommendation systems
-- **Testing & Documentation**: Jest, Mocha, API Documentation (Swagger)
+I enjoy solving complex engineering problems and building products that scale to thousands of users.
 
 ---
 
-## 🌟 Highlighted Projects
+## 🚀 Tech Stack
 
-### 1. AI-Powered Food Delivery Application
-- **Tech Stack**: Node.js, Express, React, MongoDB, AWS
-- **Role**: Software Engineer
-- **Description**: Designed an AI-powered food delivery app, integrating predictive algorithms to offer dietary recommendations from a dataset of over 600,000 restaurants across North America.
+### 💻 Full Stack
+- Node.js  
+- React  
+- TypeScript  
+- Next.js  
 
-### 2. E-commerce Platform for a Liquor Store
-- **Tech Stack**: Next.js, TypeScript, MongoDB, Stripe, Doordash API
-- **Role**: Full Stack Developer
-- **Description**: Developed an e-commerce platform serving over 5,000 customers with real-time inventory management, order tracking, and analytics. Integrated payment and delivery APIs for a streamlined user experience.
+### ☁️ Cloud & DevOps
+- Google Cloud Platform (GCP)  
+- AWS  
+- Docker  
+- CI/CD Pipelines  
+
+### 🤖 AI Integration
+- OpenAI API  
+- Vertex AI  
+- ML-powered services  
+
+### 🗄 Databases
+- MySQL  
+- MongoDB  
 
 ---
 
-## 🛠️ What I’m Currently Working On
-I’m currently creating an e-platform for a liquor store based in Texas, using **Node.js** and **Next.js**, with a focus on modular architectures, authentication layers, and secure **REST APIs** for seamless data integration.
+## 🌟 Featured Projects
+
+### 🧠 TalentTua
+**Screening-as-a-Service Platform**
+
+- Built a secure and scalable AI-powered candidate screening platform  
+- Integrated **GCP Vertex AI** for optimized AI workflows  
+- Achieved **sub-500ms API response times**
 
 ---
 
-## 🌐 Get In Touch
-- **LinkedIn**: [linkedin.com/in/prakriti-bhattarai-85456a215](https://linkedin.com/in/prakriti-bhattarai-85456a215)
-- **Portfolio**: [My Portfolio](https://prakritibhattrai.github.io/Portfolio-Using-React-and-Chakra-UI)
-- **Email**: prakriti.bhattarai5@gmail.com
+### 🍯 Honeycomb.ai
+**AI Feature for Fortune 500 SaaS Product**
+
+- Designed and launched a scalable feature for dietary/allergen classification  
+- Integrated **OpenAI APIs** for intelligent food analysis  
+- Improved classification accuracy and automation
+
+---
+
+### 🛒 E-Commerce Platform
+**Full Stack Shopping Platform**
+
+- Built using **Next.js and MongoDB**  
+- Implemented **real-time inventory management**  
+- Served **5,000+ active customers**
 
 ---
 
 ## 📈 GitHub Stats
+
 ![Prakriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakritibhattrai&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email**  
+prakriti.bhattarai5@gmail.com  
+
+💼 **LinkedIn**  
+https://linkedin.com/in/prakriti-bhattarai-85456a215  
+
+🌍 **Portfolio**  
+https://prakritibhattrai.github.io/Portfolio-Using-React-and-Chakra-UI
+
+---
+
+⭐️ *Always open to collaborating on interesting projects involving AI, scalable backend systems, and modern web applications.*
